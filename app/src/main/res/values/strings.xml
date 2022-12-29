@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cosmetic app uiux</string>
+    <string-array name="skin_type">
+        <item>Normal/Oily/Dry</item>
+        <item>Normal</item>
+        <item>Oily</item>
+        <item>Dry</item>
+        <item>Combination</item>
+    </string-array>
+    <string name="title_activity_recomendations">Recomendations</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Skincare</string>
+    <string name="tab_text_2">Makeup</string>
+
+</resources>
