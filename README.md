@@ -20,17 +20,26 @@ My roles in this project were as follows
 
 ## Home Page
 <p>This is the landing page of the application. It allows users who know their skin type to select it and move straight to the recommendations for their skin. Users who do not know their skin type can start the quiz before gettign their recommendations</p>
+<p float="left">
 <img src="https://github.com/Kendi42/Skincare-Recommendation-App/blob/193b5af9cea40ce30d109fc834dc72a8f568f19d/skincare%20app%20screenshots/landing1.png" width="200" height="400"/>
 <img src="https://github.com/Kendi42/Skincare-Recommendation-App/blob/193b5af9cea40ce30d109fc834dc72a8f568f19d/skincare%20app%20screenshots/landing2.png" width="200" height="400"/>
+</p>
 
 ## Quiz Pages
 <p>The quiz allows a user to discover their skin type with a series of questions. Samples of these pages are shown below</p>
+<p float="left">
 <img src="https://github.com/Kendi42/Skincare-Recommendation-App/blob/193b5af9cea40ce30d109fc834dc72a8f568f19d/skincare%20app%20screenshots/question1.png" width="200" height="400"/>
 <img src="https://github.com/Kendi42/Skincare-Recommendation-App/blob/193b5af9cea40ce30d109fc834dc72a8f568f19d/skincare%20app%20screenshots/question2.png" width="200" height="400"/>
+</p>
 
 ## Result Pages
-<p>This page educates the user on the characteristics of their skin type and allows them to navigate to the recommendations page</p>
+<p>These pages educate the user on the characteristics of their specific skin type and allows them to navigate to the recommendations page</p>
+<p float="left">
 <img src="https://github.com/Kendi42/Skincare-Recommendation-App/blob/193b5af9cea40ce30d109fc834dc72a8f568f19d/skincare%20app%20screenshots/oilyskinresults.png" width="200" height="400"/>
+<img src="https://github.com/Kendi42/Skincare-Recommendation-App/blob/483002f915ad4aff848e393ae11c958762483cbb/skincare%20app%20screenshots/combo.png" width="200" height="400"/>
+<img src="https://github.com/Kendi42/Skincare-Recommendation-App/blob/483002f915ad4aff848e393ae11c958762483cbb/skincare%20app%20screenshots/dry%20skin.png" width="200" height="400"/>
+<img src="https://github.com/Kendi42/Skincare-Recommendation-App/blob/483002f915ad4aff848e393ae11c958762483cbb/skincare%20app%20screenshots/normal%20skin%20.png" width="200" height="400"/>
+</p>
 
 ## Recommendation Page
 <p>This page gives the user both makeup and skin care recommendations based on their skin type</p>
